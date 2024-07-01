@@ -90,10 +90,10 @@ button {
 }
 .button-frame {
   align-items: center;
-  margin-top: 45%;
+  margin-top: 43%;
 }
 .continue-button {
-  margin-left: 300px;
+  margin-left: 17%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -113,4 +113,14 @@ button {
   font-family: Inter, var(--default-font-family);
   font-size: 20px;
   line-height: 16px;
+}
+.continue-button:hover {
+  transition: 0.3s;
+  background-color: #63335C;
+}
+.corner-logo {
+  width: 140px;
+  position: absolute;
+  margin-left: 85%;
+  margin-top: 0;
 }
