@@ -1,5 +1,6 @@
 # **Brig.ai**
-Bridging the gap between doctor dismissal and patient diagnosis for PCOS and Endometriosis
+Bridging the gap between doctor dismissal and patient diagnosis for PCOS and Endometriosis 
+Our slides: https://docs.google.com/presentation/d/1MRVwXs8IOYNraeSvrUgtWtwK7Whzbcn7Q2rtXMXsiIw/edit?usp=sharing
 
 ## Introduction
 
